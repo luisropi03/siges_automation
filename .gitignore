@@ -1,31 +1,12 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
 
 # Virtual environment
 venv/
 .venv/
 
-# OS/Editor
-.DS_Store
-Thumbs.db
-.vscode/
-
-# Local secrets and auth artifacts
+# Sensitive credentials
 token.json
 client_secret_*.json
-*credentials*.json
-*.pem
 pmo-*.json
-
-# Generated reports / artifacts
-Detalle de horas SALUD *.xlsx
-reporte_siges_salud.xlsx
-reporte_siges_salud_email.html
-
-# Local workbooks/data
-indicadores.xlsx
-Copia Reportes Siges v2.2 3.xlsm
-Copy of Copia Reportes Siges v2.2 3.xlsm
