@@ -1,7 +1,3 @@
-# run_pipeline.py
-# Ejecuta en orden los scripts
-# Uso: python run_pipeline.py
-
 import sys
 import subprocess
 import datetime

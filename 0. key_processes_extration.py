@@ -1,4 +1,3 @@
-# key_processes_extration.py
 import sys, time
 from pathlib import Path
 from datetime import date, timedelta

@@ -1,6 +1,3 @@
-# gsheets_update_siges_salud.py
-# pip install gspread google-auth pandas openpyxl
-
 import os
 import re
 from pathlib import Path

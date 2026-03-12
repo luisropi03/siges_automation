@@ -1,4 +1,3 @@
-# hours_detailed.py
 import sys, time
 import re
 from pathlib import Path
