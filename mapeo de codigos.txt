@@ -1,0 +1,8 @@
+CF-261: Pool de integraciones
+CF-200RM: Release Management 
+CF-200QA: Quality Assurance
+CF-26: PMO 
+CF-21: BI 
+CF-81: SWAT
+CF-91: Customer Success (Cust)
+CF-42: Proceso Comercial (Ventas)
